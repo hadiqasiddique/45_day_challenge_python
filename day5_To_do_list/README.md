@@ -1,6 +1,7 @@
 # 📝 To-Do List in Python
 
 A simple yet effective **command-line To-Do List application** built in Python.  
+
 It allows you to track tasks, mark them as completed, and manage your daily activities.
 
 ---
@@ -30,11 +31,8 @@ It allows you to track tasks, mark them as completed, and manage your daily acti
    git clone https://github.com/yourusername/todo-list-python.git
    cd todo-list-python
 Run the script:
-
-bash
-Copy
-Edit
 python To_do_list.py
+
 Follow the on-screen menu to manage your tasks.
 
 💻 Example Usage
