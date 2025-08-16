@@ -25,7 +25,7 @@ A simple Python console application that helps track your income, expenses, and 
 
 3. Type `"done"` when you have entered all expenses.
 
-The program calculates:
+## The program calculates:
 
 - Total income
 

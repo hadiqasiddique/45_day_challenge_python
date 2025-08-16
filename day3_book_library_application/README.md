@@ -1,35 +1,35 @@
-Library Management System (Python)
+## Library Management System (Python)
 A simple console-based Library Management System built in Python.
 
 This program allows users to add books, view all books, and search books by title, author, or ISBN.
 
-Features:
+## Features:
 
-Add Books – Store book details including title, author, and ISBN.
+- Add Books – Store book details including title, author, and ISBN.
 
-View Books – Display all books currently in the library.
+- View Books – Display all books currently in the library.
 
-Search Books – Find books by title, author name, or ISBN.
+- Search Books – Find books by title, author name, or ISBN.
 
-Interactive Menu – User-friendly command-line interface.
+- Interactive Menu – User-friendly command-line interface.
 
+## How It Works
 
-How It Works
+- The program displays a menu with options:
 
-The program displays a menu with options:
+- Add a book
 
-Add a book
+- View all books
 
-View all books
+- Search for a book
 
-Search for a book
-
-Exit
+- Exit
 
 The user selects an option.
+
 Actions are performed accordingly, with validation for search results.
 
-Example Usage
+## Example Usage
 
 Library Menu:
 
@@ -54,6 +54,7 @@ Library Menu:
 3. Search Book
 4. Exit
 Enter your choice (1/2/3/4): 2
+
 Title: Kite runner, Author: khalid hosseni, ISBN: 9781234567890
 
 

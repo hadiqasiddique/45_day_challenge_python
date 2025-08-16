@@ -16,7 +16,7 @@ It allows you to track tasks, mark them as completed, and manage your daily acti
 
 ---
 
-## 🛠️ Python Concepts Used
+## Python Concepts Used
 - **Lists** – Store and manage tasks.
 - **Functions** – Organize code for adding, removing, and displaying tasks.
 - **Conditional Statements (`if`, `elif`, `else`)** – Handle user choices.
@@ -25,7 +25,7 @@ It allows you to track tasks, mark them as completed, and manage your daily acti
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/yourusername/todo-list-python.git
@@ -35,7 +35,7 @@ python To_do_list.py
 
 Follow the on-screen menu to manage your tasks.
 
-💻 Example Usage
+## Example Usage
 === TO-DO LIST ===
 1. Add Item
 2. Remove Item
@@ -45,9 +45,13 @@ Follow the on-screen menu to manage your tasks.
 6. Exit
 
 Enter your choice: 1
+
 Enter the item to add: Reading
+
 "Reading" has been added to the To-Do list.
 
 Enter your choice: 4
+
 To-Do List:
+
 1. Reading
